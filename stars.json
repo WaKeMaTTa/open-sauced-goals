@@ -1,8 +1,8 @@
 [
   {
     "full_name": "hschne/rails-mini-profiler",
-    "stargazers_count": 359,
-    "open_issues_count": 12,
+    "stargazers_count": 360,
+    "open_issues_count": 10,
     "forks_count": 16
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "panorama-ed/memo_wise",
-    "stargazers_count": 426,
+    "stargazers_count": 428,
     "open_issues_count": 11,
     "forks_count": 17
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 18507,
-    "open_issues_count": 398,
-    "forks_count": 3252
+    "stargazers_count": 18528,
+    "open_issues_count": 397,
+    "forks_count": 3256
   },
   {
     "full_name": "ruby-next/ruby-next",
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "Matoking/protontricks",
-    "stargazers_count": 867,
-    "open_issues_count": 4,
+    "stargazers_count": 874,
+    "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "serradura/u-case",
-    "stargazers_count": 360,
+    "stargazers_count": 361,
     "open_issues_count": 12,
     "forks_count": 23
   },
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "prettier/plugin-ruby",
-    "stargazers_count": 1241,
-    "open_issues_count": 11,
+    "stargazers_count": 1243,
+    "open_issues_count": 12,
     "forks_count": 80
   },
   {
     "full_name": "merit-gem/merit",
-    "stargazers_count": 1449,
+    "stargazers_count": 1450,
     "open_issues_count": 1,
     "forks_count": 197
   },
@@ -97,20 +97,20 @@
   },
   {
     "full_name": "glebm/i18n-tasks",
-    "stargazers_count": 1758,
+    "stargazers_count": 1760,
     "open_issues_count": 44,
     "forks_count": 208
   },
   {
     "full_name": "danmayer/coverband",
-    "stargazers_count": 1973,
+    "stargazers_count": 1977,
     "open_issues_count": 5,
     "forks_count": 119
   },
   {
     "full_name": "rspec/rspec-core",
-    "stargazers_count": 1098,
-    "open_issues_count": 65,
+    "stargazers_count": 1097,
+    "open_issues_count": 66,
     "forks_count": 727
   },
   {
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "rspec/rspec-mocks",
-    "stargazers_count": 1054,
+    "stargazers_count": 1055,
     "open_issues_count": 65,
     "forks_count": 313
   },
   {
     "full_name": "palkan/n_plus_one_control",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 2,
     "forks_count": 16
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "stimulusreflex/stimulus_reflex",
-    "stargazers_count": 1941,
+    "stargazers_count": 1944,
     "open_issues_count": 12,
     "forks_count": 135
   },
@@ -153,7 +153,7 @@
     "full_name": "fazibear/colorize",
     "stargazers_count": 1129,
     "open_issues_count": 12,
-    "forks_count": 134
+    "forks_count": 135
   },
   {
     "full_name": "rwmt/Multiplayer",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "goabstract/Marketing-for-Engineers",
-    "stargazers_count": 11914,
+    "stargazers_count": 11921,
     "open_issues_count": 20,
-    "forks_count": 868
+    "forks_count": 869
   },
   {
     "full_name": "dracula/atom",
